@@ -4,10 +4,12 @@
     <fullyQualifiedTypeName name="com.sunbeam.BankAccount"/>
     <fullyQualifiedTypeName name="com.sunbeam.Auto.Music"/>
     <fullyQualifiedTypeName name="com.sunbeam.Auto.Car"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.Sunbeam.salary.Employee"/>
     <fullyQualifiedTypeName name="com.Sunbeam.salary.Salaried"/>
     <fullyQualifiedTypeName name="com.Sunbeam.salary.Hourly"/>
     <fullyQualifiedTypeName name="com.Sunbeam.salary.Commission"/>
     <fullyQualifiedTypeName name="com.Sunbeam.salary.BasePlus"/>
+    <fullyQualifiedTypeName name="com.Sunbeam.entities.StringLength"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.Sunbeam.exceptions.ExceptionLineTooLong"/>
 </qualifiedTypeNameHistroy>
