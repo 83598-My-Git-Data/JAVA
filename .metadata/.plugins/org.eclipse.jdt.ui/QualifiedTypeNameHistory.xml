@@ -10,6 +10,6 @@
     <fullyQualifiedTypeName name="com.Sunbeam.salary.Commission"/>
     <fullyQualifiedTypeName name="com.Sunbeam.salary.BasePlus"/>
     <fullyQualifiedTypeName name="com.Sunbeam.entities.StringLength"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.Sunbeam.exceptions.ExceptionLineTooLong"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
